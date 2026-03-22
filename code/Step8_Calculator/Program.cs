@@ -12,7 +12,7 @@ double Division(double a, double b)
 }
 double Subtraction(double a, double b)
 {
-    return a - b;
+    return a - b; 
 }
 Console.Write("Введите 1-ое число: ");
 double num1 = Convert.ToDouble(Console.ReadLine());
